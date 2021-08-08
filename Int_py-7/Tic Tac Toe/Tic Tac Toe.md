@@ -8,7 +8,7 @@ In order to win the game, a player must place three of their marks in a horizont
 
 **Example**:
 
-<img alt="Game of Tic-tac-toe, won by X" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/479px-Tic-tac-toe-game-1.svg.png" decoding="async" width="479" height="56" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/719px-Tic-tac-toe-game-1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/958px-Tic-tac-toe-game-1.svg.png 2x" data-file-width="479" data-file-height="56">
+![](Tic-tac-toe-game-1.svg.png)
 
 The following example game is won by the first player, X.
 
