@@ -5,3 +5,13 @@ A decision tree is built to predict diabetes for women in the PIMA Indians datas
 <p align="justify">
 A decision tree is a flowchart-like tree structure where an internal node represents feature (or attribute), the branch represents a decision rule, and each leaf node represents the outcome. The topmost node in a decision tree is known as the root node. It learns to partition on the basis of the attribute value. It partitions the tree in recursively manner call recursive partitioning. This flowchart-like structure helps in decision making. It’s visualization like a flowchart diagram which easily mimics the human level thinking. That is why decision trees are easy to understand and interpret.
 </p>
+# 📋 Steps performed in the Project
+
+
+- Importing and Loading necessary libraries like Pandas, sklearn, 
+- Loading the PIMA Indian Diabetes Dataset using read_csv()
+- Feature Selection-The columns are divided into two types of variables: dependent and independent variable. The target variable in the data set is Outcome and other variables are independent variables. The target variable is dropped from the data set so as to train the model without any biasing.
+- Data Split- To understand model performance, dividing the dataset into a training set and a test set is a good strategy. In this project, the data is split into 70% training and 30% testing data.
+- Building Model- Decision Tree Model is built on the training data.
+- Evaluating Model- The model is evaluated by using the evaluation metric like accuracy. It is identified by comparing the actual test values and predicted values. The model obtained 77.05% using metrics.accuracy_score() of sklearn package.
+
