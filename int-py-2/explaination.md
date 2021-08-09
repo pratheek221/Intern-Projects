@@ -1,4 +1,4 @@
-# 📋 Project Explaination
+# 📋 Project Explanation
 <p align="justify">
 A decision tree is built to predict diabetes for women in the PIMA Indians dataset based on predictor variables such as number of pregnancies, insulin, bmi, age, glucose, bp, and pedigree. A subset of the PIMA Indians data from the UCI Machine Learning Repository is a built-in dataset in the MASS library. The PIMA data in MASS contains 768 complete records from the original dataset. These 768 records have been broken down into two splits: Training data has 70% and Testing data has 30% of total data records. All records with zeros that don’t make sense have been cleaned out of these datasets.
 </p>
@@ -23,3 +23,14 @@ Before downloading the Project, ensure that the Anaconda Navigator is installed 
 </p>
 
 # 📋 Documentation
+
+#### Pregnant Woman Diabetic Prediction Model using DecisionTree Classifier
+<b>Aim</b> : To predict whether a pregnant woman is suffering from Diabetes or not.
+<b>Description of the Project</b>:
+
+- Problem Statement: The number of people with diabetes rose from 108 million in 1980 to 422 million in 2014. It has been just increasing since then. Having such an increase is really alarming and therefore there’s a need to predict whether a person is suffering from it or not, so as to start providing medical assistance a bit early and try to cure it off in the initial stage itself. Having said that, this project targets a specific set of people i.e., the pregnant women. This project mainly aims to develop a model of higher accuracy that is capable of predicting diabetes effectively.
+- Ways of solving it: The model is going to use a dataset which consists of several medical predictors (independent) variables and the target (dependent) variable. The dataset is going to be split into testing data and training data. Initially, the model is going to be trained on the training data. Then the model is run on testing data to verify the accuracy and efficiency metrics. 
+- Algorithm used: DecisionTree Classifier
+- Technologies Used: Jupyter Notebooks (Required Python Packages Pre-Installed)
+<b>Expected Results</b>: A high accuracy model capable of predicting whether a pregnant woman is suffering from diabetes or not. 
+
