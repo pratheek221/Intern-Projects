@@ -28,10 +28,14 @@ Before downloading the Project, ensure that the Anaconda Navigator is installed 
 <p align="justify"><b>Aim</b> : To predict whether a pregnant woman is suffering from Diabetes or not.  </p>
 <p align="justify"><b>Description of the Project</b>:</p>
 <p align="justify">
+  
+ 
 - Problem Statement: The number of people with diabetes rose from 108 million in 1980 to 422 million in 2014. It has been just increasing since then. Having such an increase is really alarming and therefore there’s a need to predict whether a person is suffering from it or not, so as to start providing medical assistance a bit early and try to cure it off in the initial stage itself. Having said that, this project targets a specific set of people i.e., the pregnant women. This project mainly aims to develop a model of higher accuracy that is capable of predicting diabetes effectively.
 - Ways of solving it: The model is going to use a dataset which consists of several medical predictors (independent) variables and the target (dependent) variable. The dataset is going to be split into testing data and training data. Initially, the model is going to be trained on the training data. Then the model is run on testing data to verify the accuracy and efficiency metrics. 
 - Algorithm used: DecisionTree Classifier
 - Technologies Used: Jupyter Notebook (Required Python Packages Pre-Installed)
+  
+  
   </p>
 <p align="justify">
 <b>Expected Results</b>: A high accuracy model capable of predicting whether a pregnant woman is suffering from diabetes or not. 
