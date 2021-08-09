@@ -25,7 +25,7 @@ Before downloading the Project, ensure that the Anaconda Navigator is installed 
 # 📋 Documentation
 
 #### Pregnant Woman Diabetic Prediction Model using DecisionTree Classifier
-<p align="justify"><b>Aim</b> : To predict whether a pregnant woman is suffering from Diabetes or not.  </p>
+<p align="justify"><b>Aim</b> : To predict whether a woman is suffering from Diabetes or not.  </p>
 <p align="justify"><b>Description of the Project</b>:</p>
 <p align="justify">
   
