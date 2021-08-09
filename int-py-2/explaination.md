@@ -9,10 +9,17 @@ A decision tree is a flowchart-like tree structure where an internal node repres
 # 📋 Steps performed in the Project
 
 
-- Importing and Loading necessary libraries like Pandas, sklearn, 
-- Loading the PIMA Indian Diabetes Dataset using read_csv()
+- Importing and Loading necessary libraries like Pandas, sklearn.
+- Loading the PIMA Indian Diabetes Dataset using read_csv().
 - Feature Selection-The columns are divided into two types of variables: dependent and independent variable. The target variable in the data set is Outcome and other variables are independent variables. The target variable is dropped from the data set so as to train the model without any biasing.
 - Data Split- To understand model performance, dividing the dataset into a training set and a test set is a good strategy. In this project, the data is split into 70% training and 30% testing data.
 - Building Model- Decision Tree Model is built on the training data.
 - Evaluating Model- The model is evaluated by using the evaluation metric like accuracy. It is identified by comparing the actual test values and predicted values. The model obtained 77.05% using metrics.accuracy_score() of sklearn package.
 
+
+# 📋 Downloading the Project and using it
+<p align="justify">
+Before downloading the Project, ensure that the Anaconda Navigator is installed on the machine. The steps to download and installation can be obtained from the official site: https://www.anaconda.com/products/individual. Download the decisiontreeclass.ipynb and execute each block of code in the Jupyter Notebook environment.
+</p>
+
+# 📋 Documentation
