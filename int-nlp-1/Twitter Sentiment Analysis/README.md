@@ -22,6 +22,6 @@
  
     
 - Work flow :bookmark_tabs:
-    - [A.Manisha](): Worked on Content Writing and Markdown and implementation.
+    - [A.Manisha](): Worked on Content Gathering & Writing and Markdown File editing and implementation, Updating Files and Planning
     - [Pranav kapoor](): Worked on Video Creation & Editing , Implementation , Updating Files and Making PR requests.
     
