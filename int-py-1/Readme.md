@@ -55,13 +55,11 @@
 2. Make sure you have tkinter installed otherwise use 'pip install tkinter'.
 3. Now run the file since its tkinter module youll get a window as shown in the below output picture.
 4. Now your Notepad is ready you can type **python files or text files** in the notepad and save it with there respective extensions but if you havent specified the extension by **default it will take as text file.**
-5. For opening a saved file click open button inorder to open a preloaded file in to your notepad **only text and python          files**.
+5. For opening a saved file click open button inorder to open a preloaded file in to your notepad **only text and python files**.
 
 ## Output : :heavy_check_mark:
 
 ![notepad.jpg](attachment:notepad.jpg)
 
 
-```python
 
-```
