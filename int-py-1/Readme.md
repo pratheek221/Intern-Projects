@@ -59,7 +59,13 @@
 
 ## Output : :heavy_check_mark:
 
-![notepad.jpg](attachment:notepad.jpg)
+![notepad.jpg](images/notepad.JPG)
 
 
+- **Team Members:** 👧 👦
 
+     ||Name|
+     |-|-|
+     |1|[Lourde Mary.T]()|
+     |2|[Pragya Khanna]()|
+     |3|[Venkata Naga SaiPratheek Sriram]()|
